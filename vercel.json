@@ -1,0 +1,26 @@
+{
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "redirects": [
+      {
+        "source": "/cv",
+        "destination": "/cv.pdf"
+      },
+      {
+        "source": "/twitter",
+        "destination": "https://twitter.com/halima78252"
+      },
+      {
+        "source": "/x",
+        "destination": "https://x.com/halima78252"
+      },
+      {
+        "source": "/github",
+        "destination": "https://github.com/halimakhalili"
+      },
+      {
+        "source": "/linkedin",
+        "destination": "https://www.linkedin.com/in/halima-khalili-0b8500249"
+      }
+    ]
+  }
