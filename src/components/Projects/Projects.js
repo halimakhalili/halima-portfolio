@@ -27,7 +27,7 @@ function Projects() {
             <ProjectCard
               isBlog={false}
               title="Task Management System"
-              description="This Project is built in order to manage all the task for projects. It is used by TeebAlhoor Company"
+              description="This Project is built in order to manage all the tasks for projects. It is used by TeebAlhoor Company"
             />
           </Col>
 

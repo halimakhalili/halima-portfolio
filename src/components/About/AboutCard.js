@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Halima Khalili </span>
             based in <span className="purple"> Kabul City.</span>
             <br />
-            I am currently employed as a remote Software Engineer at Smart Friqi and Teebl Alhoor Company.
+            I am currently employed as a remote Software Engineer at Smart Friqi assosiated with Teebl Alhoor Company.
             <br />
             I have Bachelor of Software Engineering from Kabul University.
             <br />
